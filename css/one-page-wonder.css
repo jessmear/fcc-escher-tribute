@@ -11,6 +11,7 @@ body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     /* font options include 400,300,300italic,600,600italic */
     font-family: 'Josefin Sans', sans-serif;
+    background-color: #FDF8F3;
 }
 
 .header-image {
@@ -38,7 +39,7 @@ body {
 
 .headerbox {
     border-radius: 3px 3px 3px 3px;
-    background: rgba(255,255,255,0.8);
+    background: rgba(253,248,243,0.8);
 }
 
 .headline h1 {
@@ -207,4 +208,4 @@ footer {
     }
 }
 
-a { color: #DD9A05; }
+a { color: #F7790A; }
