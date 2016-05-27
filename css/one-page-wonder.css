@@ -74,7 +74,7 @@ body {
 
 .bordered-img {
     border: solid black 5px;
-    max-width: 80%;
+    max-width: 450px;
 }
 
 .right-caption {
@@ -186,6 +186,9 @@ footer {
     .headline h2 {
         font-size: 30px;
     }
+    .bordered-img {
+        width: 80%;
+    }
 }
 
 @media(max-width:375px) {
@@ -205,6 +208,9 @@ footer {
     .featurette-image.pull-right {
         margin-bottom: 10px;
         margin-left: 0;
+    }
+    .bordered-img {
+        width: 80%;
     }
 }
 
