@@ -74,7 +74,7 @@ body {
 
 .bordered-img {
     border: solid black 5px;
-    max-width: 500px;
+    max-width: 60%;
 }
 
 .right-caption {
